@@ -1,4 +1,4 @@
 .idea/
 git-test.iml
 target/
-.json
+*.json
