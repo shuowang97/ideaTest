@@ -1,4 +1,5 @@
 aaa
+<<<<<<< HEAD
 :aaa
 :aaa
 :aaa
@@ -10,3 +11,6 @@ aaa
 :aaa
 :aaa
 :
+=======
+bbbb
+>>>>>>> 27ba0dc0670ef6f11d92f00e2aff6fb4dff15ef4
