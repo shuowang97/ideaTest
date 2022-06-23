@@ -3,4 +3,4 @@ aaaa
 ccc
 sss
 
-version: demo-1.0-snapshot
+version: demo-1.0
